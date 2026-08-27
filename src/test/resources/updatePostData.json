@@ -1,0 +1,6 @@
+{
+  "id": 1,
+  "title": "Updated REST Assured Post",
+  "body": "This post was updated using PUT",
+  "userId": 1
+}

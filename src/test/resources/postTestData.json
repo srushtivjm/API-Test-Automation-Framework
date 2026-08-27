@@ -1,0 +1,17 @@
+[
+  {
+    "title": "First Test Post",
+    "body": "Testing API with first data set",
+    "userId": 1
+  },
+  {
+    "title": "Second Test Post",
+    "body": "Testing API with second data set",
+    "userId": 2
+  },
+  {
+    "title": "Third Test Post",
+    "body": "Testing API with third data set",
+    "userId": 3
+  }
+]

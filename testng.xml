@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="API Automation Suite">
+    <test name="API Tests">
+        <classes>
+            <class name="tests.GetPostTest"/>
+            <class name="tests.CreatePostTest"/>
+            <class name="tests.DataDrivenPostTest"/>
+            <class name="tests.UpdatePostTest"/>
+            <class name="tests.DeletePostTest"/>
+
+
+            <class name="negative.InvalidCreatePostTest"/>
+            <class name="negative.InvalidEndpointTest"/>
+            <class name="negative.InvalidPostTest"/>
+
+        </classes>
+
+    </test>
+</suite>
