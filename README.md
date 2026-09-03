@@ -196,4 +196,9 @@ This project demonstrates practical experience with:
 -Git
 -GitHub
 
+## Test Execution Report
+
+The complete TestNG suite was executed successfully with all tests passing.
+
+![Test Execution Results](screenshorts/test_results.png)
 
